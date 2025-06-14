@@ -71,18 +71,18 @@ To provide actionable business insights for launching a new delivery-based resta
 
 ---
 
-🚧 Challenges Faced
-Understanding ERD and linking foreign keys
+### 🚧 Challenges Faced
+ - Understanding ERD and linking foreign keys
 
-Corrupted Jupyter notebooks and file recovery
+ - Corrupted Jupyter notebooks and file recovery
 
-Git/GitHub collaboration issues (file conflicts, merge handling)
+ - Git/GitHub collaboration issues (file conflicts, merge handling)
 
-🧾 Summary
-Location: Noord-Holland is ideal for launching due to volume.
+### 🧾 Summary
+ - Location: Noord-Holland is ideal for launching due to volume.
 
-Product Strategy: Choose between premium health/international meals vs. affordable local favorites.
+ - Product Strategy: Choose between premium health/international meals vs. affordable local favorites.
 
-Customer Focus: Female users dominate orders, but all user groups show potential. Loyalty programs could enhance retention.
+ - Customer Focus: Female users dominate orders, but all user groups show potential. Loyalty programs could enhance retention.
 
 
